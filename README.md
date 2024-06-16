@@ -1,6 +1,19 @@
 # RobloxMulti-Instance
-RobloxMulti-Instance
 
+
+----
+> [!IMPORTANT]
+> You need to have the Multi Instance  open before opening Roblox.
+---------
 ```c#
 new Mutex(true, "ROBLOX_singletonMutex");
 ```
+Simply put, this line of code ensures that Roblox allows multiple windows to be opened.
+
+-----------
+
+# Dev Log
+> [!v0.1]
+> Release  [16.6.2024]
+
+----
