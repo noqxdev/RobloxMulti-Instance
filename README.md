@@ -1,7 +1,7 @@
 # RobloxMulti-Instance
 
 [![Downloads](https://img.shields.io/github/downloads/noqxdev/RobloxMulti-Instance/latest/total?color=981bfe)](https://github.com/noqxdev/RobloxMulti-Instance/releases)
-
+[![License](https://img.shields.io/github/license/noqxdev/RobloxMulti-Instance)](https://github.com/noqxdev/RobloxMulti-Instance/blob/main/LICENSE)
 ----
 > [!IMPORTANT]
 > You need to have the Multi Instance  open before opening Roblox.
