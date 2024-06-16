@@ -5,6 +5,8 @@
 ----
 > [!IMPORTANT]
 > You need to have the Multi Instance  open before opening Roblox.
+>-------
+> You need to have the .net framework installed
 ---------
 ```c#
 new Mutex(true, "ROBLOX_singletonMutex");
