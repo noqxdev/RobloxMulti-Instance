@@ -1,5 +1,6 @@
 # RobloxMulti-Instance
 
+[![Downloads](https://img.shields.io/github/downloads/noqxdev/RobloxMulti-Instance/latest/total?color=981bfe)](https://github.com/noqxdev/RobloxMulti-Instance/releases)
 
 ----
 > [!IMPORTANT]
