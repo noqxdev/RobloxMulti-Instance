@@ -12,7 +12,8 @@
 new Mutex(true, "ROBLOX_singletonMutex");
 ```
 Simply put, this line of code ensures that Roblox allows multiple windows to be opened.
-
+-----------
+# [Download](https://github.com/noqxdev/RobloxMulti-Instance/releases)
 -----------
 
 # Dev Log
