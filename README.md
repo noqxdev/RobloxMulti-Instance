@@ -2,6 +2,7 @@
 
 [![Download](https://img.shields.io/github/downloads/noqxdev/RobloxMulti-Instance/total?color=981bfe)](https://github.com/noqxdev/RobloxMulti-Instance/releases)
 [![License](https://img.shields.io/github/license/noqxdev/RobloxMulti-Instance)](https://github.com/noqxdev/RobloxMulti-Instance/blob/main/LICENSE)
+
 ----
 > [!IMPORTANT]
 > You need to have the Multi Instance  open before opening Roblox.
@@ -13,7 +14,8 @@ new Mutex(true, "ROBLOX_singletonMutex");
 ```
 Simply put, this line of code ensures that Roblox allows multiple windows to be opened.
 -----------
-# [Download](https://github.com/noqxdev/RobloxMulti-Instance/releases)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/noqxdev/RobloxMulti-Instance/releases)
+
 -----------
 
 # Dev Log
